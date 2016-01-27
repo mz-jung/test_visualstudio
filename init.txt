@@ -1,1 +1,2 @@
-1. github¿¡ repository¸¦ »ı¼ºÇÏ¿© visualstudio¿¡¼­ ÆÀÅ½»ö±â¿¡¼­ ¿¬°áÇÔ.
+1. githubì— repositoryë¥¼ ìƒì„±í•˜ì—¬ visualstudioì—ì„œ íŒ€íƒìƒ‰ê¸°ì—ì„œ ì—°ê²°í•¨.
+2. githubì—ì„œ ë‚´ìš© ì¶”ê°€.
