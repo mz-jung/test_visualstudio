@@ -1,2 +1,2 @@
 1. github에 repository를 생성하여 visualstudio에서 팀탐색기에서 연결함.
-2. github에서 내용 추가.
+2. github에서 내용 추가.2
